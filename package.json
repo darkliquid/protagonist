@@ -1,0 +1,27 @@
+{
+  "name": "protagonist",
+  "version": "0.0.1",
+  "description": "Extract works from protagonize.com",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "minimist": "^1.1.2",
+    "mkdirp": "^0.5.1",
+    "request": "^2.60.0",
+    "to-markdown": "^1.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scraping",
+    "markdown",
+    "extraction",
+    "protagonize"
+  ],
+  "author": "Andrew Montgomery-Hurrell",
+  "license": "MIT"
+}
